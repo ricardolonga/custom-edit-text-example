@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">RobolectricSample</string>
+    <string name="hint_email">user@domain.com</string>
+    <string name="salvar">Salvar</string>
+
+</resources>
